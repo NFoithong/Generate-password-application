@@ -21,3 +21,7 @@ This project is designed by GW coding bootcamp. Given HTML and CSS, create a ran
 - HTML
 - CSS
 - JavaScript
+
+## Implement & Deploy
+- https://nfoithong.github.io/Generate-password-application/
+- https://github.com/NFoithong/Generate-password-application.git
